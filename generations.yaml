@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Nissan_Z_(RZ34)"
+
+generations:
+  - name: "RZ34"
+    start_year: 2023
+    end_year: null
+    description: "The seventh-generation Z on the updated 370Z platform, with the 3.0 L VR30DDTT twin-turbo V6."
