@@ -1,0 +1,11 @@
+command_id: 743.763.220E25|fc=1
+test_cases:
+- expected_values:
+    Z_TP_FR_743: null
+  response: '76304620E2500'
+- expected_values:
+    Z_TP_FR_743: 27.75
+  response: 76304620E256F
+- expected_values:
+    Z_TP_FR_743: 37.25
+  response: '76304620E2595'

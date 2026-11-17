@@ -1,0 +1,14 @@
+command_id: 743.763.220E01|fc=1
+test_cases:
+- expected_values:
+    Z_ODO: 5703
+  response: '76306620E01001647'
+- expected_values:
+    Z_ODO: 5887
+  response: 76306620E010016FF
+- expected_values:
+    Z_ODO: 5888
+  response: '76306620E01001700'
+- expected_values:
+    Z_ODO: 13583
+  response: 76306620E0100350F
